@@ -1,4 +1,8 @@
 /.venv
 /__MACOSX
 /fashionSmall
+<<<<<<< HEAD
 /fashion-product-images-small.zip
+=======
+/fashion-product-images-small.zip
+>>>>>>> d18cb85 (Update changes)
