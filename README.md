@@ -1,14 +1,18 @@
-# Fashion Classification & Outfit Recommender using Deep Learning
+# Fashion Classification using Deep Learning
 
 ### Hyperparameter Hunters
 
 ### Members: Umnia Hameed and Hema Motiani
 
-## Abstract
+## 🧾 Project Overview
+This project classifies fashion images into 20 high-level clothing categories using a deep learning model built on top of EfficientNet. The dataset, originally consisting of 50 categories, is preprocessed, reorganized, and split into training and testing sets for robust model training and evaluation.
 
-This project focuses on developing a deep learning-based fashion classification system using the Fashion Small dataset and an outfit recommender using the Polyvore dataset. The classification model will identify different clothing categories, while the recommender system will suggest outfit combinations based on fashion compatibility. The project leverages convolutional neural networks (CNNs) for image classification and similarity-based models for outfit recommendation.
+## 🛠️ Setup & Run Instructions
 
-All code is contained in the Jupyter Notebook: `fashionSmall.ipynb`.
+### 1. Clone this repository and mount Google Drive
+This project is designed for use in Google Colab.
+
+All code is contained in the Jupyter Notebook: `Deepfashion.ipynb`.
 
 ## Contents
 
@@ -24,6 +28,6 @@ All code is contained in the Jupyter Notebook: `fashionSmall.ipynb`.
 2. Install required libraries:
    pip install tensorflow matplotlib numpy
 3. Open the Jupyter notebook and run cells from top to bottom
-   jupyter notebook fashionSmall.ipynb
+   jupyter notebook Deepfashion.ipynb
 
 
