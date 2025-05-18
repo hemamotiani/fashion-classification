@@ -27,7 +27,8 @@ All code is contained in the Jupyter Notebook: `Deepfashion.ipynb`.
 1. Clone this repository
 2. Install required libraries:
    pip install tensorflow matplotlib numpy
-3. Open the Jupyter notebook and run cells from top to bottom
+3. Download the dataset at https://drive.google.com/file/d/0B7EVK8r0v71pa2EyNEJ0dE9zbU0/view?usp=drive_link&resourcekey=0-CPiKS-AiE8IDonk54WJ5_w and add it to your google drive.
+4. Open the Jupyter notebook and run cells from top to bottom
    jupyter notebook Deepfashion.ipynb
 
 
